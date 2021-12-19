@@ -13,6 +13,12 @@ Ensuite vous devrez installer les différentes bibliotèques nécessaires :
         pip install tqdm 
         pip install sklearn
 
+Maintenant il va vous falloir préparer un fichier de données, pour ça il vous suffira de lancer le code présent sur le fichier creationFichierCSV.py via la commande suivante :
+
+        python3 creationFichierCSV.py
+
+Il vous est possible de modifier combien de ligne de données vous souhaitez générer, simplement se référer au fichier creationFichierCSV.py et se référer aux commentaires 
+
 ## Utilisation 
 
 Sur un terminal à la racine du projet, tapez la commande suivante afin de lancer l'API : 
